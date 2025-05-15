@@ -12,7 +12,6 @@
   ],
   "require": {
     "php": ">=8.0",
-    "ext-frankenphp": "*",
     "psx/engine": "^2.0"
   },
   "autoload": {
